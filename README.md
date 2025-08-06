@@ -20,7 +20,7 @@
 
 ---
 
-## 🧪 Lab 1: Cross-Site Scripting (XSS) Challenge1
+## 🧪 Lab 2: Secure User Profile Project
 
 ### 🔗 ลิงก์ที่เกี่ยวข้อง
 
