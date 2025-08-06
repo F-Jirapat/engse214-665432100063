@@ -8,7 +8,7 @@
 
 ---
 
-## 🧪 Lab 1: Secure Website Deployment
+## 🧪 Lab 1: Cross-Site Scripting (XSS) Challenge1
 
 ### 🔗 ลิงก์ที่เกี่ยวข้อง
 
