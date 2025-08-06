@@ -7,7 +7,7 @@
 รหัสนักศึกษา: `6654321006-3`
 
 ---
-## 🧪 Lab 1: Secure Website Deployment
+## 🧪 Lab 1: 
 ### 🔗 ลิงก์ที่เกี่ยวข้อง
 - 💻 GitHub Repository:  
   [https://github.com/F-Jirapat/engse214-6654321006-3-Lab1.github.io](https://github.com/F-Jirapat/engse214-6654321006-3-Lab1.github.io)
